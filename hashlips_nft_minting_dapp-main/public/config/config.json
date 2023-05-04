@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x3E2f91c31daf2467B5360EE85D78E99338fd4976",
+  "SCAN_LINK": "https://cronos.org/explorer/0x3E2f91c31daf2467B5360EE85D78E99338fd4976",
+  "NETWORK": {
+    "NAME": "Cronos",
+    "SYMBOL": "CRO",
+    "ID": 25
+  },
+  "NFT_NAME": "CROminions",
+  "SYMBOL": "cMinions",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 19990000000000000000,
+  "DISPLAY_COST": 19.99,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "CroSea",
+  "MARKETPLACE_LINK": "https://crosea.io/",
+  "SHOW_BACKGROUND": true
+}

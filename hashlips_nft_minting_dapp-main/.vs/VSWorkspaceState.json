@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\public",
+    "\\public\\config",
+    "\\public\\config\\images",
+    "\\src",
+    "\\src\\provider",
+    "\\src\\redux",
+    "\\src\\redux\\blockchain",
+    "\\src\\redux\\data",
+    "\\src\\styles"
+  ],
+  "SelectedNode": "\\public\\index.html",
+  "PreviewInSolutionExplorer": false
+}

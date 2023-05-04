@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\hashlips_nft_minting_dapp-main",
+    "\\hashlips_nft_minting_dapp-main\\public",
+    "\\hashlips_nft_minting_dapp-main\\public\\config",
+    "\\hashlips_nft_minting_dapp-main\\src",
+    "\\hashlips_nft_minting_dapp-main\\src\\provider",
+    "\\hashlips_nft_minting_dapp-main\\src\\redux",
+    "\\hashlips_nft_minting_dapp-main\\src\\redux\\blockchain",
+    "\\hashlips_nft_minting_dapp-main\\src\\redux\\data",
+    "\\hashlips_nft_minting_dapp-main\\src\\styles"
+  ],
+  "SelectedNode": "\\hashlips_nft_minting_dapp-main\\src\\App.js",
+  "PreviewInSolutionExplorer": false
+}
